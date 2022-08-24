@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello, folks! 👋
 
-<!--
-**wardendon/wardendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wang Dong, a Gen Z loser who learnt programming at the end of the internet wave.
 
-Here are some ideas to get you started:
+I am currently a jobless homebody【家里蹲】
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog
+
+[博客地址](https://w2gd.top) | [Blog link](https://wardendon.github.io)
+
+## Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/frame-uniapp-informational?style=flat&logo=uniapp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/frame-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+## GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardendon&layout=compact&hide=html,text,Less" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wardendon&show_icons=true&theme=dracula&count_private=true" />
+</a>
+
+
+
