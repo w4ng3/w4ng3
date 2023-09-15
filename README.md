@@ -2,7 +2,7 @@
 
 My name is Wang Dong, a Gen Z loser who learnt programming at the end of the internet wave.
 
-I am currently a jobless homebody【家里蹲】<img align="right" src="./img/Erotic-comic.png" style="height:200px;width:200px;">
+<img align="right" src="./img/Erotic-comic.png" style="height:200px;width:200px;">
 
 ## Blog
 
