@@ -22,6 +22,8 @@ My name is Wang Dong.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
-
-<a href="https://github.com/wardendon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardendon&layout=compact&hide=html,text,Less" /></a><a href="https://github.com/wardendon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wardendon&show_icons=true&theme=dracula&count_private=true" /></a>
-
+<div style="display:flex">
+<a href="https://github.com/wardendon"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardendon&layout=compact&hide=html,text,Less" /></a>
+<div style="flex:1"></div>
+<a href="https://github.com/wardendon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wardendon&show_icons=true&theme=dracula&count_private=true" /></a>
+</div>
