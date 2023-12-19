@@ -1,6 +1,6 @@
 ### Hello, folks! 👋
 
-My name is Wang Dong, a Gen Z loser who learnt programming at the end of the internet wave.
+My name is Wang Dong.
 
 <img align="right" src="./img/Erotic-comic.png" style="height:200px;width:200px;">
 
@@ -11,6 +11,7 @@ My name is Wang Dong, a Gen Z loser who learnt programming at the end of the int
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
