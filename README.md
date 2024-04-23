@@ -1,15 +1,11 @@
-### Hello, folks! 👋
 
-My name is Wang Dong.
-
-<img align="right" src="./img/tldxdz.jpg" style="width:200px;">
-
-<h2 align="center">Blog<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-[博客地址](https://w4ng3.github.io) | [Blog link](https://w4ng3.github.io)
+<h2 align="center">Hello, folks! 👋</h2>
+<p align="center">My name is Wang Dong.</p>
+<p align="center">
+<a href="https://w4ng3.github.io">Blog link</a>
+</p>
 
 <h2 align="center">Technologies & Tools<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
