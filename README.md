@@ -2,7 +2,7 @@
 <h2 align="center">Hello, folks! 👋</h2>
 <p align="center">My name is Wang Dong.</p>
 <p align="center">
-<a href="https://w4ng3.github.io">Blog link</a>
+
 </p>
 
 <h2 align="center">Technologies & Tools<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
